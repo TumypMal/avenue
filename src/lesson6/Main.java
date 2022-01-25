@@ -10,7 +10,7 @@ public class Main {
 
         StringUtils.coding("asdfg AAAhdf1123 dfjkjkmbn");
 
-        System.out.println("come on!");
+        System.out.println("рарп");
 
     }
 
